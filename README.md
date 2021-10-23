@@ -42,6 +42,6 @@
 
 <br />
 <br />
-[abc]: 
+[abc]: https://www.linkedin.com/in/muhammad-haris-javed
 [linkedin]: https://www.linkedin.com/in/muhammad-haris-javed
 [github]: https://github.com/harisjaved1996
