@@ -23,13 +23,13 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="bootstrap" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />
+<img align="left" alt="bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="jquery" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jquery.svg" />
-<img align="left" alt="jquery" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" />
+<img align="left" alt="jquery" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
+<img align="left" alt="jquery" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 <img align="left" alt="jquery" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeigniter.svg" />
-<img align="left" alt="jquery" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/laravel.svg" />
-<img align="left" alt="jquery" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
+<img align="left" alt="jquery" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
+<img align="left" alt="jquery" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="jquery" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
